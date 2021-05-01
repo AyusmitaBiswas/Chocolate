@@ -46,7 +46,7 @@ You are to be.❣️💖
 
 <a href="Hyperlink.html">Click me for something</a> <br>
 
-<img src="IMG_20210407_182530.jpg"  hight= "600" width="400"><img src="IMG20210411152531.jpg" hight="600" width="400"> <br>
+<img src="IMG-20210501-WA0082.jpg"  hight= "600" width="400"><img src="IMG-20210501-WA0084.jpg" hight="600" width="400"> <br>
 
 <h2 style="color:deeppink">This fossile smile and us</h2>
 
